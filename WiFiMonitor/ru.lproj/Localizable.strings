@@ -1,0 +1,29 @@
+/* 
+  Localizable.strings
+  WiFiMonitor
+  
+  Russian localization
+*/
+
+/* Main UI */
+"app.title" = "Монитор WiFi сигнала";
+"network.searching" = "Поиск сети...";
+"network.none" = "Нет соединения";
+"network.connected" = "Подключено (RSSI: %ld)";
+"signal.label" = "Сигнал: %ld дБм";
+
+/* Signal Quality */
+"quality.excellent" = "Отличный";
+"quality.good" = "Хороший";
+"quality.fair" = "Средний";
+"quality.weak" = "Слабый";
+"quality.veryWeak" = "Очень слабый";
+"quality.unknown" = "Нет данных";
+
+/* UI Labels */
+"history.label" = "История сигнала";
+"instructions.label" = "Ходи по квартире чтобы\nпроверить покрытие WiFi";
+
+/* Errors */
+"error.data" = "Ошибка получения данных";
+"error.unknown" = "Неизвестная сеть";

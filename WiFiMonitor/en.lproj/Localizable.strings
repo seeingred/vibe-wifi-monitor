@@ -1,0 +1,29 @@
+/* 
+  Localizable.strings
+  WiFiMonitor
+  
+  English localization
+*/
+
+/* Main UI */
+"app.title" = "WiFi Signal Monitor";
+"network.searching" = "Searching for network...";
+"network.none" = "No Connection";
+"network.connected" = "Connected (RSSI: %ld)";
+"signal.label" = "Signal: %ld dBm";
+
+/* Signal Quality */
+"quality.excellent" = "Excellent";
+"quality.good" = "Good";
+"quality.fair" = "Fair";
+"quality.weak" = "Weak";
+"quality.veryWeak" = "Very Weak";
+"quality.unknown" = "No Data";
+
+/* UI Labels */
+"history.label" = "Signal History";
+"instructions.label" = "Walk around your space to\ncheck WiFi coverage";
+
+/* Errors */
+"error.data" = "Error getting data";
+"error.unknown" = "Unknown network";
