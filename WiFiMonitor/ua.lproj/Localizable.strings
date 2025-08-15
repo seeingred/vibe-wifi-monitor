@@ -1,0 +1,29 @@
+/* 
+  Localizable.strings
+  WiFiMonitor
+  
+  Ukrainian localization
+*/
+
+/* Main UI */
+"app.title" = "Монітор WiFi сигналу";
+"network.searching" = "Пошук мережі...";
+"network.none" = "Немає з'єднання";
+"network.connected" = "Підключено (RSSI: %ld)";
+"signal.label" = "Сигнал: %ld дБм";
+
+/* Signal Quality */
+"quality.excellent" = "Відмінний";
+"quality.good" = "Добрий";
+"quality.fair" = "Середній";
+"quality.weak" = "Слабкий";
+"quality.veryWeak" = "Дуже слабкий";
+"quality.unknown" = "Немає даних";
+
+/* UI Labels */
+"history.label" = "Історія сигналу";
+"instructions.label" = "Ходіть по квартирі щоб\nперевірити покриття WiFi";
+
+/* Errors */
+"error.data" = "Помилка отримання даних";
+"error.unknown" = "Невідома мережа";
