@@ -11,7 +11,7 @@
   
   **Native macOS app for real-time WiFi signal monitoring**
   
-  [Features](#features) • [Installation](#installation) • [Usage](#usage) • [Localization](#localization) • [Building](#building)
+  [Features](#features) • [Installation](#installation) • [Usage](#usage) • [Building](#building)
   
 </div>
 
@@ -76,15 +76,6 @@ open WiFiMonitor.xcodeproj
 | Fair | -70 to -60 dBm | Средний / Fair | 🟡 Yellow |
 | Weak | -80 to -70 dBm | Слабый / Weak | 🟠 Orange |
 | Very Weak | Below -80 dBm | Очень слабый / Very Weak | 🔴 Red |
-
-## 🌐 Localization
-
-The app automatically detects your system language and displays the interface accordingly:
-
-- 🇬🇧 **English** - Default language
-- 🇷🇺 **Русский** - Полная поддержка русского языка
-
-To add more languages, contribute to the `Localizable.strings` files in the project.
 
 ## 🛠 Building from Source
 
